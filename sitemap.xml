@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>clanonda.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-15T23:27:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>clanonda.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-05-15T23:27:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>clanonda.github.io/posts/sfida-di-comunicazione/</loc>
+    <loc>/posts/sfida-di-comunicazione/</loc>
     <lastmod>2020-05-15T23:27:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>clanonda.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>clanonda.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
